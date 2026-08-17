@@ -1,11 +1,7 @@
-student = {
-    "name": "Aniya",
-    "grade": 12,
-    "subjects": ["Comp Sci", "Science", "Math"],
-}
+# Navigate commonds I used:
+# cd python-intro-homework
+# cd week-2/assignment-2
 
-for key, value in student.items():
-    print(f"{key}: {value}")
+date = input("What is today's date? ")
+print(f"You said today is {date}.")
 
-student["graduated"] = False
-print(student)

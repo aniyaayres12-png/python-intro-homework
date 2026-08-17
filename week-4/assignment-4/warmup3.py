@@ -1,9 +1,3 @@
-list1 = ["Python", "C++", "JavaScript", "Java"]
-list2 = ["Python", "Java", "Ruby", "Go"]
+# 1b2bc4c Add warmup1 and warmup2
+print("This week I have learned how to use CLI navigation commands and how to make commits in Git!")
 
-set1 = set(list1)
-set2 = set(list2)
-
-print(f"Union: {set1 | set2}")
-print(f"Intersection: {set1 & set2}")
-print(f"Difference: {set1 - set2}")
