@@ -1,4 +1,4 @@
-names = ["Bob", "Ava", "Marcus", "Ajani", "Niya"]
+names = ["Bob", "Ava", "Marcus","Ajani", "Niya"]
 
 search_name = input("Enter a name to search for: ")
 
